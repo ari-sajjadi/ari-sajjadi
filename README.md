@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ari Sajjadi
 
-<!--
-**ari-sajjadi/ari-sajjadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist & Backend Developer (.NET)
 
-Here are some ideas to get you started:
+Based in Switzerland 🇨🇭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- ASP.NET Core Web APIs
+- Clean Architecture
+- Testing & Maintainable Code
+- Microsoft 365 & IT Support
+
+## Featured Project
+### Mini HelpDesk API
+A minimal HelpDesk system built with ASP.NET Core.
+
+- Clean Architecture
+- Pagination
+- Tests
+- Simple UI
+
+Run locally:
+dotnet run
+Then open http://localhost:5020/
